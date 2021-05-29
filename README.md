@@ -55,10 +55,6 @@ templates
 <h3>4 . Click Deploy Branch </h3>
 <img src='images/2.png'>
 
-<p> A Link Will be Generated after sucessful Deployment like this <a href= https://santhosh12.herokuapp.com/
- ' > https://santhosh12.herokuapp.com</a> </p>
-
-<hr />
 
 <h3>References </h3>
 
@@ -69,6 +65,6 @@ templates
 - <a href='https://hack4impact.github.io/flask-base/deploy'> Deploying Flask Application to Heroku </a>
 
 <h2> Thank You </h2>
-<p>Hope you found it insightful. If you have any queries you can mail me at : santhoshbandaru123@gmail.com .I would love to hear feedback from you to improvise it and make it better! </p>
+
 
 
